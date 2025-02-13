@@ -1,6 +1,6 @@
-# qwen-vl-utils[decord]==0.0.8
+qwen-vl-utils[decord]==0.0.8
 # If you are not using Linux, you might not be able to install decord from PyPI. In that case, you can use pip install qwen-vl-utils 
-qwen-vl-utils
+# qwen-vl-utils
 
-# git+https://github.com/huggingface/transformers
+git+https://github.com/huggingface/transformers
 accelerate
